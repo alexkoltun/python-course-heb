@@ -72,12 +72,14 @@ print("Hello!")
 
   לפייתון יש מספר סוגי נתונים מובנים:
 
-  - **מחרוזת (String)**: טקסט בתוך גרשיים.
-  - **מספר שלם (Integer)**: מספרים שלמים.
-  - **מספר עם נקודה עשרונית (Float)**: מספרים עם נקודה עשרונית.
-  - **בוליאני (Boolean)**: `True` או `False`.
-  - **רשימה (List)**: אוסף מסודר של ערכים.
-  - **מילון (Dictionary)**: אוסף של זוגות מפתח-ערך.
+  <ul dir="rtl">
+  <li><strong>מחרוזת (String)</strong>: טקסט בתוך גרשיים.</li>
+  <li><strong>מספר שלם (Integer)</strong>: מספרים שלמים.</li>
+  <li><strong>מספר עם נקודה עשרונית (Float)</strong>: מספרים עם נקודה עשרונית.</li>
+  <li><strong>בוליאני (Boolean)</strong>: `True` או `False`.</li>
+  <li><strong>רשימה (List)</strong>: אוסף מסודר של ערכים.</li>
+  <li><strong>מילון (Dictionary)</strong>: אוסף של זוגות מפתח-ערך.</li>
+  </ul>
 
 ---
 
